@@ -7,9 +7,6 @@ const ComponenteQuatro = (props) => {
             <p className="title">Título: {props.title}</p>
             <ComponenteCinco title="Componente cinco" />
             <ComponenteCinco title="Componente cinco" />
-            <ComponenteCinco title="Componente cinco" />
-            <ComponenteCinco title="Componente cinco" />
-            <ComponenteCinco title="Componente cinco" />
         </div>
         
     )
