@@ -7,6 +7,7 @@ import ComponenteSeis from "./components/ComponentSeis";
 import ComponenteSete from "./components/ComponenteSete";
 import ComponenteOito from "./components/ComponenteOito";
 import ComponenteNove from "./components/ComponenteNove";
+import ComponentePai from "./components/comunicacao_direta/ComponentePai";
 
 function App() {
     return (
@@ -19,6 +20,7 @@ function App() {
             <ComponenteSete title="Componente Sete" valor={true} />
             <ComponenteOito title="Componente Oito" valor="Maria" />
             <ComponenteNove title="Componente Nove" valor="Carlos" />
+            <ComponentePai title="Componente Pai" />
         </>
     )
 }
