@@ -10,4 +10,4 @@ function ComponenteAvoA(props) {
     )
 }
 
-export default ComponenteAvoA
+export default ComponenteAvoA 
